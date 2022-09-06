@@ -2,11 +2,9 @@
 This is an efficient GPU implementation of recurrent neural tangent kernel (RNTK) for UCI dataset.
 
 ## dependencies
-jax
+jax, symjax, sklearn
 
-symjax
-
-sklearn
+To install all dependencies, run "pip install -r requirements.txt" in a Python venv or environment.
 
 ## reproduce results
 open a terminal `cd $PROJECT` where `$PROJECT` is the repo location and then simply run `bash main.sh`.

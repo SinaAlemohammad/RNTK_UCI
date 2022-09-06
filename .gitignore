@@ -1,0 +1,4 @@
+*.pyc
+log_hyperparam/*
+RNTKVENV/
+RNTKVENV3.8/
